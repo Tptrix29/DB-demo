@@ -3,6 +3,7 @@ MongoDB/GridFS with Springboot
 
 本地运行：
 ```shell
+cd DB-demo
 mvn spring-boot:run
 ```
 
