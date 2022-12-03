@@ -1,2 +1,2 @@
 # DB-demo
-MongoDB with Springboot demo
+MongoDB/GridFS with Springboot
